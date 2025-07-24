@@ -1,0 +1,4 @@
+.venv/
+openCV/.idea
+openCV/.venv
+openCV/image
